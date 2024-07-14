@@ -1,0 +1,787 @@
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\StageFour.exe
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\appsettings.json
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\StageFour.deps.json
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\StageFour.runtimeconfig.json
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\StageFour.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\StageFour.pdb
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Azure.Core.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Azure.Identity.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\HtmlAgilityPack.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\Newtonsoft.Json.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\WebDriver.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\System.Memory.Data.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\System.Text.Json.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\obj\Debug\net6.0\StageFour.GeneratedMSBuildEditorConfig.editorconfig
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfoInputs.cache
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfo.cs
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\obj\Debug\net6.0\StageFour.csproj.CoreCompileInputs.cache
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\obj\Debug\net6.0\StageFour.csproj.CopyComplete
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\obj\Debug\net6.0\StageFour.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\obj\Debug\net6.0\ref\StageFour.dll
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\obj\Debug\net6.0\StageFour.pdb
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\obj\Debug\net6.0\StageFour.genruntimeconfig.cache
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\obj\Debug\net6.0\StageFour.csproj.AssemblyReference.cache
+L:\webscraping\SD0092-Property Data - For Sale & Rent Data\source code\Stage 1 - Proxy IP\StepOne\StepOne\StageFour\obj\Debug\net6.0\refint\StageFour.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\StageFour.exe
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\appsettings.json
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\StageFour.deps.json
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\StageFour.runtimeconfig.json
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\StageFour.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\ref\StageFour.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\StageFour.pdb
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\WebDriver.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\obj\Debug\net6.0\StageFour.csproj.AssemblyReference.cache
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\obj\Debug\net6.0\StageFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfoInputs.cache
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfo.cs
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\obj\Debug\net6.0\StageFour.csproj.CoreCompileInputs.cache
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\obj\Debug\net6.0\StageFour.csproj.CopyComplete
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\obj\Debug\net6.0\StageFour.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\obj\Debug\net6.0\ref\StageFour.dll
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\obj\Debug\net6.0\StageFour.pdb
+C:\Users\gerard.ambrocio\Desktop\Property\StageFour\obj\Debug\net6.0\StageFour.genruntimeconfig.cache
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\StageFour.exe
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\appsettings.json
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\StageFour.deps.json
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\StageFour.runtimeconfig.json
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\StageFour.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\ref\StageFour.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\StageFour.pdb
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Azure.Core.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Azure.Identity.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\WebDriver.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\System.Text.Json.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Angela-Property Data\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Angela-Property Data\StageFour\obj\Debug\net6.0\StageFour.csproj.AssemblyReference.cache
+D:\Angela-Property Data\StageFour\obj\Debug\net6.0\StageFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angela-Property Data\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfoInputs.cache
+D:\Angela-Property Data\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfo.cs
+D:\Angela-Property Data\StageFour\obj\Debug\net6.0\StageFour.csproj.CoreCompileInputs.cache
+D:\Angela-Property Data\StageFour\obj\Debug\net6.0\StageFour.csproj.CopyComplete
+D:\Angela-Property Data\StageFour\obj\Debug\net6.0\StageFour.dll
+D:\Angela-Property Data\StageFour\obj\Debug\net6.0\ref\StageFour.dll
+D:\Angela-Property Data\StageFour\obj\Debug\net6.0\StageFour.pdb
+D:\Angela-Property Data\StageFour\obj\Debug\net6.0\StageFour.genruntimeconfig.cache
+D:\00 Arc - property data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.AssemblyReference.cache
+D:\00 Arc - property data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\00 Arc - property data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfoInputs.cache
+D:\00 Arc - property data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfo.cs
+D:\00 Arc - property data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.CoreCompileInputs.cache
+D:\00 Arc - property data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.dll
+D:\00 Arc - property data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\ref\StageFour.dll
+D:\00 Arc - property data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.pdb
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\StageFour.exe
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\appsettings.json
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\StageFour.deps.json
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\StageFour.runtimeconfig.json
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\StageFour.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\ref\StageFour.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\StageFour.pdb
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Azure.Core.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Azure.Identity.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\WebDriver.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\System.Memory.Data.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\System.Text.Json.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\obj\Debug\net6.0\StageFour.csproj.AssemblyReference.cache
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\obj\Debug\net6.0\StageFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfoInputs.cache
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfo.cs
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\obj\Debug\net6.0\StageFour.csproj.CoreCompileInputs.cache
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\obj\Debug\net6.0\StageFour.csproj.CopyComplete
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\obj\Debug\net6.0\StageFour.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\obj\Debug\net6.0\ref\StageFour.dll
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\obj\Debug\net6.0\StageFour.pdb
+D:\00 Arc - property data\Angela-Property Data with changes sold\StageFour\obj\Debug\net6.0\StageFour.genruntimeconfig.cache
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.exe
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\appsettings.json
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.deps.json
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.runtimeconfig.json
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\ref\StageFour.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.pdb
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Azure.Core.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Azure.Identity.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\HtmlAgilityPack.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Newtonsoft.Json.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\WebDriver.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Memory.Data.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Text.Json.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.AssemblyReference.cache
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.GeneratedMSBuildEditorConfig.editorconfig
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfoInputs.cache
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfo.cs
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.CoreCompileInputs.cache
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.CopyComplete
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\ref\StageFour.dll
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.pdb
+L:\GVA\Angela-Property Data\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.genruntimeconfig.cache
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.exe
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\appsettings.json
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.deps.json
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.runtimeconfig.json
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\ref\StageFour.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.pdb
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Azure.Core.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Azure.Identity.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\WebDriver.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Memory.Data.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Text.Json.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\New folder\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New folder\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.AssemblyReference.cache
+D:\New folder\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfoInputs.cache
+D:\New folder\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfo.cs
+D:\New folder\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.CoreCompileInputs.cache
+D:\New folder\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.CopyComplete
+D:\New folder\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.dll
+D:\New folder\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\ref\StageFour.dll
+D:\New folder\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.pdb
+D:\New folder\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.genruntimeconfig.cache
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.exe
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\appsettings.json
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.deps.json
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.runtimeconfig.json
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\ref\StageFour.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.pdb
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Azure.Core.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Azure.Identity.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\WebDriver.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Text.Json.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.AssemblyReference.cache
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfoInputs.cache
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfo.cs
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.CoreCompileInputs.cache
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.CopyComplete
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\ref\StageFour.dll
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.pdb
+D:\Angela-Property Data-chromedriver\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.genruntimeconfig.cache
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.exe
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\appsettings.json
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.deps.json
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.runtimeconfig.json
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.pdb
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Azure.Core.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Azure.Identity.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\WebDriver.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Memory.Data.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Text.Json.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\eugene\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.AssemblyReference.cache
+D:\eugene\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\eugene\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfoInputs.cache
+D:\eugene\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfo.cs
+D:\eugene\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.CoreCompileInputs.cache
+D:\eugene\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.CopyComplete
+D:\eugene\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.dll
+D:\eugene\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\ref\StageFour.dll
+D:\eugene\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.pdb
+D:\eugene\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.genruntimeconfig.cache
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\AngleSharp.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\WebDriverManager.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Simplified.System.CommandLine.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.CommandLine.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.CommandLine.NamingConventionBinder.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Upstream.CommandLine.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+D:\eugene\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+D:\eugene\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\refint\StageFour.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.exe
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\appsettings.json
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.deps.json
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.runtimeconfig.json
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\ref\StageFour.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\StageFour.pdb
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\AngleSharp.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Azure.Core.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Azure.Identity.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Dynamic.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Scripting.Metadata.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Scripting.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\HtmlAgilityPack.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\IronPython.Modules.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\IronPython.SQLite.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\IronPython.Wpf.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\IronPython.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Mono.Unix.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Newtonsoft.Json.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\WebDriver.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Simplified.System.CommandLine.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.CodeDom.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.CommandLine.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.CommandLine.NamingConventionBinder.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Memory.Data.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Text.Json.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\Upstream.CommandLine.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\WebDriverManager.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\android-arm\native\libMono.Unix.so
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\android-arm64\native\libMono.Unix.so
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\android-x64\native\libMono.Unix.so
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\android-x86\native\libMono.Unix.so
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\ios-arm\native\libMono.Unix.a
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\ios-arm64\native\libMono.Unix.a
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\ios-armv7s\native\libMono.Unix.a
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\iossimulator-arm64\native\libMono.Unix.a
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\iossimulator-x64\native\libMono.Unix.a
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\linux-arm\native\libMono.Unix.so
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\linux-arm64\native\libMono.Unix.so
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\linux-x64\native\libMono.Unix.so
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libMono.Unix.a
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libMono.Unix.a
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\osx-arm64\native\libMono.Unix.dylib
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\osx-x64\native\libMono.Unix.dylib
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\tvos-arm64\native\libMono.Unix.a
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\tvossimulator-x64\native\libMono.Unix.a
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.AssemblyReference.cache
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.GeneratedMSBuildEditorConfig.editorconfig
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfoInputs.cache
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.AssemblyInfo.cs
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.CoreCompileInputs.cache
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.csproj.CopyComplete
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\ref\StageFour.dll
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.pdb
+L:\GVA\Webscraping Latest\Angela-Property Data with changes\StageFour\obj\Debug\net6.0\StageFour.genruntimeconfig.cache

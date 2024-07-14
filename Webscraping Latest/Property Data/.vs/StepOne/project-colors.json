@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a507c96e-e031-4002-969b-d88866ffbe23": {
+      "ProjectGuid": "a507c96e-e031-4002-969b-d88866ffbe23",
+      "DisplayName": "StageFour",
+      "ColorIndex": 0
+    },
+    "a9ef540a-bae7-4a74-b837-d2d6b556c8f1": {
+      "ProjectGuid": "a9ef540a-bae7-4a74-b837-d2d6b556c8f1",
+      "DisplayName": "StageOne",
+      "ColorIndex": 1
+    },
+    "1f703165-b6c8-4d4a-8549-93422b7fd932": {
+      "ProjectGuid": "1f703165-b6c8-4d4a-8549-93422b7fd932",
+      "DisplayName": "StepTwo",
+      "ColorIndex": 2
+    },
+    "a6978040-f3d4-4bc1-afbb-1b0f9653d82a": {
+      "ProjectGuid": "a6978040-f3d4-4bc1-afbb-1b0f9653d82a",
+      "DisplayName": "StageTwoPointB",
+      "ColorIndex": 3
+    },
+    "471a8438-43b6-4a38-905a-6ce0b4ed1708": {
+      "ProjectGuid": "471a8438-43b6-4a38-905a-6ce0b4ed1708",
+      "DisplayName": "StepThree",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c834b0c3-0a3a-4319-96be-c22d89d93935": {
+      "ProjectGuid": "c834b0c3-0a3a-4319-96be-c22d89d93935",
+      "DisplayName": "StageOnePointB",
+      "ColorIndex": 5
+    },
+    "0f528189-ebb5-4c3f-a152-058308941e9a": {
+      "ProjectGuid": "0f528189-ebb5-4c3f-a152-058308941e9a",
+      "DisplayName": "StageOnePointB",
+      "ColorIndex": 6
+    },
+    "980aede9-9158-49e9-a27f-eac8a1c9cccd": {
+      "ProjectGuid": "980aede9-9158-49e9-a27f-eac8a1c9cccd",
+      "DisplayName": "StageOnePointB",
+      "ColorIndex": 7
+    },
+    "5a96b678-2372-4657-8c2b-0c1fd0da4390": {
+      "ProjectGuid": "5a96b678-2372-4657-8c2b-0c1fd0da4390",
+      "DisplayName": "StageFive",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
